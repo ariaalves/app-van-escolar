@@ -42,4 +42,8 @@ Para facilitar o cadastro de escolas, o projeto utiliza o **Retrofit** para cons
 
 ### 🚀 Como rodar o projeto
 
-Clone este repositório.2.Abra o projeto no Android Studio Ladybug (ou superior).3.Aguarde a sincronização do Gradle baixar as dependências.4.Certifique-se de ter o JDK 17 configurado nas configurações do Gradle.5.Execute o projeto em um Emulador ou Dispositivo Físico.
+1. Clone este repositório.
+2. Abra o projeto no Android Studio Ladybug (ou superior).
+3. Aguarde a sincronização do Gradle baixar as dependências.
+4. Certifique-se de ter o JDK 17 configurado nas configurações do Gradle.
+5. Execute o projeto em um Emulador ou Dispositivo Físico.
